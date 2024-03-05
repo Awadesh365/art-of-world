@@ -1,5 +1,5 @@
 import "@styles/globals.css";
-// import Provider from "@components/Provider";
+import Provider from "@components/Provider";
 
 export const metadata = {
   title: "Imagination Station",
